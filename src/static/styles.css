@@ -70,8 +70,14 @@ section h3 {
   color: #0066cc;
 }
 
-.activity-card p {
-  margin-bottom: 8px;
+.activity-card ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.activity-card li {
+  margin-bottom: 5px;
+  color: #555;
 }
 
 .form-group {
